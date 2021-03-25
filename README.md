@@ -13,3 +13,13 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 **Thoughts:** After coding in Ruby and JavaScript for the past year, it really nice to give Python a try. These topics were very basic and not that difficult but I feel it was good enough for this first day.
 
 **Link to work:** [Band Name Generator](https://replit.com/@matthewmjm/Band-Name-Generator#main.py)
+
+### Day 2: March 24, 2021
+
+**Today's Topics**: PYTHON - .
+
+**Today's Progress**: .
+
+**Thoughts:** .
+
+**Link to work:** [Tip Calculator]()
