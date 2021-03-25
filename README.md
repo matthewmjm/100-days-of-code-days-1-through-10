@@ -6,7 +6,7 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 ### Day 1: March 23, 2021
 
-**Today's Topics**: PYTHON - printing, commenting, debugging, string manipulation and variables.
+**Today's Topics**: Python: Printing, Commenting, Debugging, String Manipulation and Variables.
 
 **Today's Progress**: Created a very simple Python app that creates a band name using the city you grew up in and your pet's name.
 
@@ -16,10 +16,20 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 ### Day 2: March 24, 2021
 
-**Today's Topics**: PYTHON - data types, numbers, operation, type conversion, and f-Stings.
+**Today's Topics**: Python: Data Types, Numbers, Operation, Type Conversion, and f-Stings.
 
 **Today's Progress**: Learned the data types in Python. Yesterday, I learned about Strings but today I learned integers, floats, and boolean. I focused on the data types of integers and floats and calculating using order of operations (EPMDAS). I also learned f-strings, which is a way to concatenate variables with values into a string. It reminded me a bit like template literals in JavaScript. Using all that I learned, I created another simple CLI python app which is a tip calculator. It asks for the total of the bill, percentage of tip you would like to give, and number of people in the party. The app calculates how much each person owes for the total bill plus tip.
 
 **Thoughts:** I am math geek so today was a lot of fun learning how to perform mathematical functions in Python. Inputs take in numbers as strings, so it was a bit confusing making sure I knew the data type. And then how integers do not round. So that to me was the most challenging part of the day.
 
 **Link to work:** [Tip Calculator](https://replit.com/@matthewmjm/Tip-Calculator#main.py)
+
+### Day 3: March 25, 2021
+
+**Today's Topics**: Python: Conditionals, Logic Operators, Code Blocks and Scope.
+
+**Today's Progress**: .
+
+**Thoughts:** .
+
+**Link to work:** [Treasure Island](https://replit.com/@matthewmjm/Treasure-Island#main.py)
