@@ -5,6 +5,7 @@ party_size = input("How many people to split the bill? ")
 tip_amount = float(total_bill) * (float(tip_percentage) / 100)
 grand_total_bill = float(total_bill) + tip_amount
 bill_per_person = round(grand_total_bill / int(party_size), 2)
+bill_per_person_formatted = "{:.2f}".format(bill_per_person)
 print(grand_total_bill)
 print(tip_amount)
-print(bill_per_person)
+print(bill_per_person_formatted)
