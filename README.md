@@ -33,3 +33,13 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 **Thoughts:** At least at this point in learning Python, I must say the syntax does seem easy to me. I imagine things will get a bit more complex as I progress. I feel the best way is baby steps with the fundamentals to ensure a solid foundation.
 
 **Link to work:** [Treasure Island](https://replit.com/@matthewmjm/Treasure-Island#main.py)
+
+### Day 4: March 26, 2021
+
+**Today's Topics**: Python: .
+
+**Today's Progress**: .
+
+**Thoughts:** .
+
+**Link to work:** [Rock Paper Scissors](https://replit.com/@matthewmjm/Rock-Paper-Scissors#main.py)
