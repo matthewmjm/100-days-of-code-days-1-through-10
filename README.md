@@ -28,8 +28,8 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Today's Topics**: Python: Conditionals, Logic Operators, Code Blocks and Scope.
 
-**Today's Progress**: .
+**Today's Progress**: Continuing on with Python basics, today I learned control flow with if/else and conditional operators, nested if and elif statements, multiple if statements in succession, and logic operators. To demonstrate my learning today, I created a simple CLI app that to get through to the treasure, you have to answer each question correct to advance to the next.
 
-**Thoughts:** .
+**Thoughts:** At least at this point in learning Python, I must say the syntax does seem easy to me. I imagine things will get a bit more complex as I progress. I feel the best way is baby steps with the fundamentals to ensure a solid foundation.
 
 **Link to work:** [Treasure Island](https://replit.com/@matthewmjm/Treasure-Island#main.py)
