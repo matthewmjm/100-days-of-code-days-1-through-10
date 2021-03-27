@@ -36,7 +36,7 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Today's Topics**: Python: Randomisation and Python Lists.
 
-**Today's Progress**: I learned about Python's Random module, which is used to generate random numbers (either floats or integers). Lists are a data structure in Python.
+**Today's Progress**: I learned about Python's Random module, which is used to generate random numbers (either floats or integers). Lists are a data structure in Python. And you can nested lists. As the project for today, I made a CLI app to play Rock, Paper, Scissors.
 
 **Thoughts:** I had no idea how robust the Python Random module was. But since it used for Data Science, it must need to handle some extreme mathematical calculations.
 
