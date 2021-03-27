@@ -36,7 +36,7 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 ### Day 4: March 26, 2021
 
-**Today's Topics**: Python: .
+**Today's Topics**: Python: Randomisation and Python Lists.
 
 **Today's Progress**: .
 
