@@ -34,12 +34,10 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Link to work:** [Treasure Island](https://replit.com/@matthewmjm/Treasure-Island#main.py)
 
-### Day 4: March 26, 2021
-
 **Today's Topics**: Python: Randomisation and Python Lists.
 
-**Today's Progress**: .
+**Today's Progress**: I learned about Python's Random module, which is used to generate random numbers (either floats or integers). Lists are a data structure in Python.
 
-**Thoughts:** .
+**Thoughts:** I had no idea how robust the Python Random module was. But since it used for Data Science, it must need to handle some extreme mathematical calculations.
 
 **Link to work:** [Rock Paper Scissors](https://replit.com/@matthewmjm/Rock-Paper-Scissors#main.py)
