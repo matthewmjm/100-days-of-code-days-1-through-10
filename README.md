@@ -50,6 +50,6 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Today's Progress**: I learned about loops in Python. In The For Loop, indentation of code to the same length (so it is vertically stacked) creates the code block to be executed each time the For Loop runs. Also learned about for loops and the range() function. The second argument in the range function does not include that last number. For today's project, I made a password generator CLI app in Python.
 
-**Thoughts:** Indentation is really important in Python. It will break you code if it is not done properly in the code syntax. To be in a code block, every line has to be indented to the same length
+**Thoughts:** Indentation is really important in Python. It will break you code if it is not done properly in the code syntax. To be in a code block, every line has to be indented to the same length for the code to work properly. Which makes sense since Python was designed to be opinionated. This script I made to generate a password might really come in handy when I need to make a password!
 
 **Link to work:** [Password Generator](https://replit.com/@matthewmjm/Password-Generator#main.py)

@@ -26,7 +26,6 @@ while count < num_symbols:
     password_list.append(random.choice(symbols))
 
 random.shuffle(password_list)    
-print(password_list)
 
 password = ""
 for ele in password_list:
