@@ -53,3 +53,13 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 **Thoughts:** Indentation is really important in Python. It will break you code if it is not done properly in the code syntax. To be in a code block, every line has to be indented to the same length for the code to work properly. Which makes sense since Python was designed to be opinionated. This script I made to generate a password might really come in handy when I need to make a password!
 
 **Link to work:** [Password Generator](https://replit.com/@matthewmjm/Password-Generator#main.py)
+
+### Day 6: March 28 2021
+
+**Today's Topics**: Python: Functions.
+
+**Today's Progress**: .
+
+**Thoughts:** .
+
+**Link to work:** [Escape Maze](https://replit.com/@matthewmjm/Escape-Maze#main.py)
