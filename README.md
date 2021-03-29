@@ -58,7 +58,7 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Today's Topics**: Python: Functions, Code Blocks, and While Loops
 
-**Today's Progress**: Introduced to Functions in Python. Again the syntax seems very intuitive and indentation of the code block is imperative to the function properly executing. I also read about the spaces vs tab argument with indentation. According to proper Python3, four spaces should be used to indent vs hitting the tab bar. But with modern code editors, this really isn't an issue. I have been using Python3 in VS Code and the prettier extension formats it properly for me.
+**Today's Progress**: Introduced to Functions in Python. Again the syntax seems very intuitive and indentation of the code block is imperative to the function properly executing. I also read about the spaces vs tab argument with indentation. According to PEP 8 Python3, four spaces should be used for indentation (vs hitting the tab bar). But with modern code editors, this really isn't an issue. I have been using Python3 in VS Code and the prettier extension formats it properly for me.
 
 **Thoughts:** Today was a fun learning day by getting the robot through the maze in the Reeborg's World tutorial website. It was probably my most challenge day thus far in the 6 days, but still was fun to figure out the algorithm to get the robot through the maze.
 
