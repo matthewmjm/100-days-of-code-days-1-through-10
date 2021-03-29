@@ -56,10 +56,11 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 ### Day 6: March 28 2021
 
-**Today's Topics**: Python: Functions.
+**Today's Topics**: Python: Functions, Code Blocks, and While Loops
 
-**Today's Progress**: .
+**Today's Progress**: Introduced to Functions in Python. Again the syntax seems very intuitive and indentation of the code block is imperative to the function properly executing. I also read about the spaces vs tab argument with indentation. According to proper Python3, four spaces should be used to indent vs hitting the tab bar. But with modern code editors, this really isn't an issue. I have been using Python3 in VS Code and the prettier extension formats it properly for me.
 
-**Thoughts:** .
+**Thoughts:** Today was a fun learning day by getting the robot through the maze in the Reeborg's World tutorial website. It was probably my most challenge day thus far in the 6 days, but still was fun to figure out the algorithm to get the robot through the maze.
 
-**Link to work:** [Escape Maze](https://replit.com/@matthewmjm/Escape-Maze#main.py)
+**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+[code for the Escape Maze is saved here:](https://replit.com/@matthewmjm/Escape-Maze#main.py)
