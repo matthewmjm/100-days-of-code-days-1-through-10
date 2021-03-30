@@ -64,3 +64,13 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 [code for the Escape Maze is saved here:](https://replit.com/@matthewmjm/Escape-Maze#main.py)
+
+### Day 7: March 29 2021
+
+**Today's Topics**: Python: .
+
+**Today's Progress**: .
+
+**Thoughts:** .
+
+**Link to work:** [Hangman](https://replit.com/@matthewmjm/Hangman#main.py)
