@@ -28,10 +28,9 @@ guess_length = len(chosen_word)
 i = 0
 while i < guess_length:
     if guess == chosen_word[i]:
-        print("Right")
-    else:
-        print("Wrong")
+        display[i:i + 1] = guess
     i += 1
+print(display)
 
 #TODO-3: - Print 'display' and you should see the guessed letter in the correct position and every other letter replace with "_".
 #Hint - Don't worry about getting the user to guess the next letter. We'll tackle that in step 3.
