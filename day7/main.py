@@ -12,6 +12,13 @@ chosen_word = word_list[word_chose]
 #For each letter in the chosen_word, add a "_" to 'display'.
 #So if the chosen_word was "apple", display should be ["_", "_", "_", "_", "_"] with 5 "_" representing each letter to guess.
 guess = input("Guess a letter: ").lower()
+i = 0
+display = []
+while i < len(chosen_word):
+    display.append("_")
+    i += 1
+print(display)
+print(chosen_word)
 
 #TODO-1.3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
 #TODO-2.2: - Loop through each position in the chosen_word;
