@@ -67,9 +67,9 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 ### Day 7: March 29 2021
 
-**Today's Topics**: Python: .
+**Today's Topics**: Python: Build the Hangman game.
 
-**Today's Progress**: .
+**Today's Progress**: This project combined everything I have learned about Python in my previous six days of my 100 Days of Code. It included: For & While Loops, IF/ELSE statements, Lists, Strings, Range and Modules.
 
 **Thoughts:** .
 
