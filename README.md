@@ -75,12 +75,12 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Link to work:** [Hangman](https://replit.com/@matthewmjm/Hangman#main.py)
 
-### Day 7: April 1 2021
+### Day 8: April 3 2021
 
-**Today's Topics**: Python: Build the Hangman game.
+**Today's Topics**: Python: Functions with Inputs, Arguments, and Parameters.
 
-**Today's Progress**: This project combined everything I have learned about Python in my previous six days of my 100 Days of Code. It included: For & While Loops, IF/ELSE statements, Lists, Strings, Range and Modules.
+**Today's Progress**: .
 
-**Thoughts:** This took a lot longer than I thought. The game is pretty simple as a whole, but when I tried to piece together the logic in my head, it was really difficult. It worked much better once I had sketched the logic into a flowchart. And then it came together much easier.
+**Thoughts:** .
 
-**Link to work:** [Hangman](https://replit.com/@matthewmjm/Hangman#main.py)
+**Link to work:** [Caesar Cipher](https://replit.com/@matthewmjm/Caesar-Cipher#main.py)
