@@ -22,6 +22,9 @@ def encrypt(plain_text, shift_amount):
             decrypt_text += alphabet[position - shift]
         print(f"The decoded text is {decrypt_text}.\n")
 
+from art import logo
+print(logo)
+
 should_end = False
 while not should_end:
     direction = input("\nType 'encode' to encrypt, type 'decode' to decrypt:\n")
