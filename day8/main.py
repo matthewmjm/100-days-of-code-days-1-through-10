@@ -21,6 +21,8 @@ def encrypt(text, shift):
     cipher_list = []
     for letter in plain_list:
         original = (alphabet.index(letter))
+        if original + shift > 25:
+            original = original - 26
         encode = alphabet[original + shift]
         cipher_list.append(encode)
     string1 = ""
