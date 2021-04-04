@@ -4,30 +4,26 @@ direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
 text = input("Type your message:\n").lower()
 shift = int(input("Type the shift number:\n"))
 
-#TODO-1: Create a function called 'encrypt' that takes the 'text' and 'shift' as inputs.
 def encrypt(plain_text, shift_amount):
-    #TODO-2: Inside the 'encrypt' function, shift each letter of the 'text' forwards in the alphabet by the shift amount and print the encrypted text.  
-    #e.g. 
-    #plain_text = "hello"
-    #shift = 5
-    #cipher_text = "mjqqt"
-    #print output: "The encoded text is mjqqt"
+    if direction.lower() == "encode":
+        plain_list = [char for char in text]
+        cipher_list = []
+        for letter in plain_list:
+            original = (alphabet.index(letter))
+            if original + shift > 25:
+                original = original - 26
+            encode = alphabet[original + shift]
+            cipher_list.append(encode)
+        string1 = ""
+        cipher_text = string1.join(cipher_list)
+        print(f"The encoded text is {cipher_text}.")
+    else:
+        decrypt_text = ""
+        for letter in plain_text:
+            position = (alphabet.index(letter))
+            if position - shift < 0:
+                position = position + 26
+            decrypt_text += alphabet[position - shift]
+        print(f"The decoded text is {decrypt_text}.")
 
-    ##HINT: How do you get the index of an item in a list:
-    #https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-list
-
-    ##🐛Bug alert: What happens if you try to encode the word 'civilization'?🐛
-    plain_list = [char for char in text]
-    cipher_list = []
-    for letter in plain_list:
-        original = (alphabet.index(letter))
-        if original + shift > 25:
-            original = original - 26
-        encode = alphabet[original + shift]
-        cipher_list.append(encode)
-    string1 = ""
-    cipher_text = string1.join(cipher_list)
-    print(f"The encoded text is {cipher_text}.")
-
-#TODO-3: Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message. 
-encrypt(text, shift)
+encrypt(plain_text=text, shift_amount=shift)
