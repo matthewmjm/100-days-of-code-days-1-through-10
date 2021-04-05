@@ -84,3 +84,13 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 **Thoughts:** The more I learn Python, the more I like it. I look forward to each day in this challenge by going deeper and deeper into Python.
 
 **Link to work:** [Caesar Cipher](https://replit.com/@matthewmjm/Caesar-Cipher#main.py)
+
+### Day 9: April 5 2021
+
+**Today's Topics**: Python: Dictionaries and Nesting.
+
+**Today's Progress**: .
+
+**Thoughts:** .
+
+**Link to work:** [Caesar Cipher](https://replit.com/@matthewmjm/#main.py)
