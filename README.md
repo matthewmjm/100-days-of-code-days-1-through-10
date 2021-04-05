@@ -87,7 +87,7 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 ### Day 9: April 5 2021
 
-**Today's Topics**: Python: Dictionaries and Nesting.
+**Today's Topics**: Python: Dictionaries and Nesting Lists/Dictionaries.
 
 **Today's Progress**: .
 
