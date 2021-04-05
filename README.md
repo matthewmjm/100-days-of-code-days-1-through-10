@@ -75,12 +75,12 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Link to work:** [Hangman](https://replit.com/@matthewmjm/Hangman#main.py)
 
-### Day 8: April 3 2021
+### Day 8: April 4 2021
 
 **Today's Topics**: Python: Functions with Inputs, Arguments, and Parameters.
 
-**Today's Progress**: .
+**Today's Progress**: Stretched a bit with functions with inputs. Also learned using parameters and arguments in functions, including keyword arguments. For today's project, I build an encoding and decoding a string based on some shift in encoding and decoding each letter in the string.
 
-**Thoughts:** .
+**Thoughts:** The more I learn Python, the more I like it. I look forward to each day in this challenge by going deeper and deeper into Python.
 
 **Link to work:** [Caesar Cipher](https://replit.com/@matthewmjm/Caesar-Cipher#main.py)
