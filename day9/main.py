@@ -19,5 +19,9 @@ while not other_bidders:
     others = input("Are there any other bidders? Type 'yes' or 'no'.\n")
     if others == "no":
         other_bidders = True
-        print(the_bids)
-        # print(f"The winner is {first_name} with a bid of ${bid}!\n")
+        winning_bid = 0
+        for bidder in the_bids:
+            if bidder["bid"] > winning_bid:
+                winning_bid = bidder["bid"]
+                winner = bidder["first_name"]
+        print(f"The winner is {winner} with a bid of ${winning_bid}!\n")
