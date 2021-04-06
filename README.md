@@ -89,8 +89,8 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Today's Topics**: Python: Dictionaries and Nesting Lists/Dictionaries.
 
-**Today's Progress**: .
+**Today's Progress**: Today I learned about Dictionaries in Python and how to add, delete, and edit items in the dictionary. I also learned about nested lists in a dictionary, nested dictionaries in a dictionary, nested dictionaries in lists. For today's project, I build a silent auction app.
 
-**Thoughts:** .
+**Thoughts:** Dictionaries and nested lists/dictionaries made a lot of sense. Dictionaries are like objects in JavaScript. The most difficult part was the traversing nested dictionaries/lists.
 
-**Link to work:** [Caesar Cipher](https://replit.com/@matthewmjm/#main.py)
+**Link to work:** [Caesar Cipher](https://replit.com/@matthewmjm/Blind-Auction#main.py)
