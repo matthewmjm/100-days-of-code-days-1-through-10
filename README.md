@@ -101,6 +101,6 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Today's Progress**: Today, I learned Python functions with outputs. And the difference between using print and return. Also learned about using docstrings to describe what a function does in a form of documentation. Also, diving deeper into while loops using Flags, and Recursion. Recursion is a function calling itself which is useful in while loops when you want to restart the function.
 
-**Thoughts:** I am now one-tenth through the 100 Days Code Challenge. These past 10 days have been on the basics. And I feel I know enough to use all I have learned and create a mini-capstone project tomorrow.
+**Thoughts:** To solidify today's learning, I built a calculator CLI app. I am now one-tenth through the 100 Days Code Challenge. These past 10 days have been on the basics. And I feel I know enough to use all I have learned and create a mini-capstone project tomorrow.
 
 **Link to work:** [Blind Auction](https://replit.com/@matthewmjm/Calculator#main.py)
