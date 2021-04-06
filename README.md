@@ -94,3 +94,13 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 **Thoughts:** Dictionaries and nested lists/dictionaries made a lot of sense. Dictionaries are like objects in JavaScript. The most difficult part was the traversing nested dictionaries/lists.
 
 **Link to work:** [Blind Auction](https://replit.com/@matthewmjm/Blind-Auction#main.py)
+
+### Day 10: April 6 2021
+
+**Today's Topics**: Python: Functions with Outputs.
+
+**Today's Progress**: .
+
+**Thoughts:** .
+
+**Link to work:** [Blind Auction](https://replit.com/@matthewmjm/Calculator#main.py)
