@@ -99,7 +99,7 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Today's Topics**: Python: Functions with Outputs.
 
-**Today's Progress**: .
+**Today's Progress**: Also learned about using docstrings to describe what a function does in a form of documentation.
 
 **Thoughts:** .
 
