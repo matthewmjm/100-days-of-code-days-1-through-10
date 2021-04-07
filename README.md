@@ -103,4 +103,4 @@ My projects from 100 Days of Code Challenge (Days 1 through 10)
 
 **Thoughts:** To solidify today's learning, I built a calculator CLI app. I am now one-tenth through the 100 Days Code Challenge. These past 10 days have been on the basics. And I feel I know enough to use all I have learned and create a mini-capstone project tomorrow.
 
-**Link to work:** [Blind Auction](https://replit.com/@matthewmjm/Calculator#main.py)
+**Link to work:** [Calculator](https://replit.com/@matthewmjm/Calculator#main.py)
